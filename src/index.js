@@ -42,8 +42,8 @@ const Grid = props => {
 
 class Main extends React.Component {
   speed = 100
-  rows = 10
-  cols = 50
+  rows = 40
+  cols = 60
 
   state = {
     generation: 0,
