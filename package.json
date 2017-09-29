@@ -13,5 +13,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://maid-dioxide-54514.netlify.com/"
+  "homepage": "https://gameoflife.ticabri.com/"
 }
